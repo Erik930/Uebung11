@@ -1,8 +1,7 @@
 package h2;
 
 public class H2_main {
-	 
-
+	  
 	 public static long fibonacci(int n) {
 	 
 		 if(n == 1 || n == 2) {
