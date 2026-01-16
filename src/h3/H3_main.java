@@ -47,15 +47,7 @@ public class H3_main {
 		        return result;
 		    }
 
-		    public static void main(String[] args) {
-
-		        int[] array = { 5, 2, 9, 1, 3, 7, 4 };
-
-		        int[] sorted = mergeSort(array);
-
-		        for (int i : sorted) {
-		            System.out.print(i + " ");
-		        }		
+		    public static void main(String[] args) {		
 		 }
 	 }
 
